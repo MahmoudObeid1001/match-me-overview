@@ -3,9 +3,7 @@
 A prompt-based dating application that prioritizes meaningful connections over mindless swiping, using thoughtful matching algorithms and real-time interactions.
 
 <div align="center">
-  <img src="assets/landing.png" width="32%" alt="Landing Page" />
-  <img src="assets/discovery page.png" width="32%" alt="Discovery Page" />
-  <img src="assets/profile.png" width="32%" alt="Profile View" />
+  <img src="assets/preview.png" width="900" alt="Match-Me preview" />
 </div>
 
 ## Project Overview
