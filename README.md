@@ -4,7 +4,7 @@ A prompt-based dating application that prioritizes meaningful connections over m
 
 <div align="center">
   <img src="assets/landing.png" width="32%" alt="Landing Page" />
-  <img src="assets/discovery.png" width="32%" alt="Discovery Page" />
+  <img src="assets/discovery page.png" width="32%" alt="Discovery Page" />
   <img src="assets/profile.png" width="32%" alt="Profile View" />
 </div>
 
