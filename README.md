@@ -2,9 +2,9 @@
 
 A prompt-based dating application that prioritizes meaningful connections over mindless swiping, using thoughtful matching algorithms and real-time interactions.
 
-<div align="center">
-  <img src="assets/preview.png" width="900" alt="Match-Me preview" />
-</div>
+<p align="center">
+  <img src="assets/landing.png" width="85%" alt="Match-Me Dating App Preview"/>
+</p>
 
 ## Project Overview
 
